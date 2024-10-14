@@ -28,7 +28,7 @@ const ProductsPage = async ({ searchParams }) => {
             <td>
               <div className={styles.product}>
                 <Image
-                  src={"/noproduct.jpg"}
+                  src={"https://images.pexels.com/photos/3602258/pexels-photo-3602258.jpeg?auto=compress&cs=tinysrgb&w=600"}
                   alt=""
                   width={40}
                   height={40}
@@ -63,7 +63,7 @@ const ProductsPage = async ({ searchParams }) => {
             <td>
               <div className={styles.product}>
                 <Image
-                  src={"/noproduct.jpg"}
+                  src={"https://images.pexels.com/photos/3602258/pexels-photo-3602258.jpeg?auto=compress&cs=tinysrgb&w=600"}
                   alt=""
                   width={40}
                   height={40}
@@ -98,7 +98,7 @@ const ProductsPage = async ({ searchParams }) => {
             <td>
               <div className={styles.product}>
                 <Image
-                  src={"/noproduct.jpg"}
+                   src={"https://images.pexels.com/photos/3602258/pexels-photo-3602258.jpeg?auto=compress&cs=tinysrgb&w=600"}
                   alt=""
                   width={40}
                   height={40}

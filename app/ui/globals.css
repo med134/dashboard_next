@@ -20,3 +20,16 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+.myTitle {
+  color: black;
+  background-color: beige;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.myTitle:hover{
+  background-color: gray;
+}

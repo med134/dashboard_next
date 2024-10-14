@@ -19,7 +19,7 @@ const Transactions = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src="/noavatar.png"
+                  src="https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt=""
                   width={40}
                   height={40}
@@ -40,7 +40,7 @@ const Transactions = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src="/noavatar.png"
+                  src="https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt=""
                   width={40}
                   height={40}
@@ -59,7 +59,7 @@ const Transactions = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src="/noavatar.png"
+                  src="https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt=""
                   width={40}
                   height={40}
