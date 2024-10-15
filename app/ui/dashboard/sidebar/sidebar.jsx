@@ -70,7 +70,7 @@ const menuItems = [
       },
       {
         title: "Help",
-        path: "/dashboard/help",
+        path: "/dashboard",
         icon: <MdHelpCenter />,
       },
     ],
@@ -83,7 +83,7 @@ const Sidebar = async () => {
       <div className={styles.user}>
         <Image
           className={styles.userImage}
-          src={"/noavatar.png"}
+          src={"https://res.cloudinary.com/djcnq7nmj/image/upload/v1728677440/med_uef7ct.jpg"}
           alt=""
           width="50"
           height="50"
